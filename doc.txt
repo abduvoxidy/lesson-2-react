@@ -1,0 +1,3 @@
+npm create vite@latest - komandani terminalga yoziladi
+npm install yoki (npm i) - komandasi beriladi
+npm run dev - proyekt run qilinadi
